@@ -5,6 +5,10 @@ Notes: a * means that the package is in beta.
 This is meant to be a list of packages and datasets available to R-users, to qualify a dataset or package needs to be available 
 to R-users with `devtools::install_github()` or `install.packages()` AND needs to be about a fictional universe. 
 
+I try to put it in alphabetical order. 
+
+## Jane Austen Novels
+- janeaustenr *package* [cran](https://cran.r-project.org/web/packages/janeaustenr/)[github](https://github.com/juliasilge/janeaustenr)
 
 ## Star Trek 
 ### TNG 
